@@ -101,7 +101,7 @@ const fetchStates = async()=> {
        
 
       </div>
-      <div>You selected - Country: {selectedCountry} State:{selectedState} City: {selectedCity}</div>
+      <div>You selected {selectedCity}, {selectedState}, {selectedCountry}</div>
     </div>
     </>
   )
